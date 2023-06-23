@@ -1,3 +1,3 @@
 #desc:after {
-    content: '"; yourJavaScriptCodeHere; "';
+    content: '"; alert("XSS vulnerability exploited!"); "';
 }
